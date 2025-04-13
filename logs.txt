@@ -1,0 +1,9 @@
+ git log --oneline --graph --all
+* 04cb768 (HEAD -> 2-find-all-completed-tasks, origin/2-find-all-completed-tasks) get completed tasks
+| * cc6f917 (origin/1-remove-a-task-by-name, 1-remove-a-task-by-name) Removing a task functionality
+|/
+| * f8585d5 (origin/3-list-tasks-sorted-by-name, 3-list-tasks-sorted-by-name) Added sorting functionality
+|/
+* a3027fa (origin/master, master) Add starter code.
+* b6a78ee (origin/main, origin/HEAD) Initial commit
+

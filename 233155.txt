@@ -1,0 +1,21 @@
+Креирав гит акаунт.
+
+Наместив default гранка да е master
+
+Направив репо https://github.com/mindosh/SI_2025_lab1_233155
+
+ГО повлеков јава file-от, направив commit и push
+
+Направив проекти на git, креирав issues, ги ставив in progress, креирав соодветни гранки за нив и со git fetch ги повлеков тие гранки
+
+
+List tasks sorted by name - Ја додадов имплементацијата во Јава направив git commit со порака и потоа push.
+
+Отворив на гранката и автоматски ми понуди опција да креирам pull request кон мастер и го комплетирав.
+
+git checkout 1-remove-a-task-by-name 
+истото го направив и за Remove a task by name и за Find all completed tasks
+
+
+
+ 
